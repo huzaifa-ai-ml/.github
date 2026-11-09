@@ -6,7 +6,7 @@
 
 *A dedicated space for exploring Artificial Intelligence, Machine Learning, and Data Science through practical implementations, experimental projects, and innovative solutions that push the boundaries of technology.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_All_Projects-2196F3?style=for-the-badge&logo=github)](https://github.com/orgs/huzaifa-vault/repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_All_Projects-2196F3?style=for-the-badge&logo=github)](https://github.com/orgs/huzaifa-ai-ml/repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-huzaifa-karim-590k)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:karimhuzaifa590@gmail.com)
 
